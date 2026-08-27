@@ -1,5 +1,8 @@
 # 🎮 Jogo da Forca (Hangman) — Terminal Edition
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 Um clássico Jogo da Forca desenvolvido em **JavaScript**, executado diretamente no terminal com **Node.js**. O projeto utiliza o módulo nativo `readline/promises` para capturar a entrada do usuário de forma assíncrona, sem a necessidade de bibliotecas externas.
 
 ## 📋 Sobre o Projeto
